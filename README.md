@@ -44,8 +44,6 @@ This project explores the application of **GPT-4 prompt engineering** for automa
   - **SQL INSERT query** was valid but had **formatting issues** due to model tokenization.
   - **State grouping query** required **SQL dialect-specific handling**.
 
-   ```
-
 ## 📌 Future Enhancements
 
 - **Improve prompt structure** to minimize formatting errors.
